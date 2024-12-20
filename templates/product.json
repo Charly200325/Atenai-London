@@ -1,0 +1,1502 @@
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 36,
+        "mobile_height": 16
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "show_price": false,
+            "price_size": "small"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "clearpay_on_site_messaging_payments_messaging_VQDYhj": {
+          "type": "shopify:\/\/apps\/clearpay-on-site-messaging\/blocks\/payments-messaging\/5d763983-d3e6-4888-9966-4e1170b26ae9",
+          "settings": {
+            "text_align": "inherit",
+            "margin_top": 16,
+            "margin_bottom": 16,
+            "color": "",
+            "size": "xs",
+            "intro_text": "or",
+            "show_interest_free": true,
+            "payment_amount_is_bold": true,
+            "show_with": true,
+            "logo_type": "badge",
+            "logo_theme": "black-on-mint",
+            "modal_link_style": "circled-info-icon",
+            "modal_theme": "mint",
+            "breakpoint": 749,
+            "text_align_mobile": "inherit",
+            "margin_top_mobile": 16,
+            "margin_bottom_mobile": 16,
+            "show_lower_limit": true,
+            "show_upper_limit": true,
+            "show_if_outside_limits": true,
+            "product": "{{product}}"
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "swatch_type": "round",
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "text_Je9BLV": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Size: {{ product.metafields.custom.size.value }}  Suitable for all skin types, especially sensitive skin.",
+            "text_style": "body"
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Key Benefits",
+            "content": "<p>{{ product.metafields.custom.active_ingredients | metafield_tag }}<\/p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_6UQb8B": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Key Notes",
+            "content": "{{ product.metafields.custom.key_ingridients | metafield_tag }}",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "HOW TO USE",
+            "content": "{{ product.metafields.custom.howtouse | metafield_tag }}",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "3e353f94-ed3d-42d0-ae05-978e190819fc": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "INGREDIENTS",
+            "content": "<p>{{ product.metafields.custom.ingredients | metafield_tag }}<\/p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "ccaf8fd7-6c43-4796-8031-1b0337a05bb4": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "icon": "plane",
+            "heading": "SHIPPING INFORMATION",
+            "content": "<p>- No EU import duties.<br\/>- Ships within 1-2 business days.<br\/>- Ships in our fully recyclable and biodegradable signature boxes.<\/p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_Tt3jBr": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Delivery & Returns",
+            "content": "<p>Shipping by UK post office,<br\/>when address is added to the final billing or only to verified PayPal address (if paid by PayPal). <\/p><p>Package handling only takes 2 business days at our warehouse, so please make sure entering correct payment and shipping information before checking out.<\/p><p>Once your payment is completed, we are not going to accept any more changes to your order.<\/p><p>Any address that needs changing, please make a note on the payment or sent an email before the payment to confirm the address. Orders placed on weekend will be shipped within 2 days.<\/p><p>As a buyer, it is your duty to pay the tax when you make an order from abroad. Our price does not include taxes, VAT, or other hidden charges.<\/p><p><strong>UK Delivery <\/strong><\/p><p>Standard Service - £2.99<\/p><p>Express Service - £7.99<\/p><p><strong>European Delivery <\/strong><\/p><p>Standard Service - £12.99<\/p><p><strong>Worldwide Delivery <\/strong><\/p><p>Worldwide Service - £19.99<\/p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 20,
+            "show_inventory_transfer": true,
+            "color_scheme": "accent-3"
+          }
+        },
+        "subscriptions_app_block_VV6R9P": {
+          "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+          "settings": {
+            "color_text_title": "#6d7175",
+            "color_text_body": "#6d7175",
+            "dividers_color": "#8f8d8d",
+            "bacgkround_color": "#ffffff",
+            "border_thickness": 1,
+            "border_radius": 0,
+            "supporting_text_title": "Purchase options",
+            "subscription_policy_url": "",
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        },
+        "okendo_star_rating_WNfXQa": {
+          "type": "shopify:\/\/apps\/okendo\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "rating",
+        "price",
+        "clearpay_on_site_messaging_payments_messaging_VQDYhj",
+        "countdown",
+        "variant_picker",
+        "description",
+        "text_Je9BLV",
+        "collapsible_tab-0",
+        "collapsible_tab_6UQb8B",
+        "collapsible_tab-1",
+        "3e353f94-ed3d-42d0-ae05-978e190819fc",
+        "ccaf8fd7-6c43-4796-8031-1b0337a05bb4",
+        "collapsible_tab_Tt3jBr",
+        "inventory_status",
+        "subscriptions_app_block_VV6R9P",
+        "buy_buttons",
+        "share",
+        "related_buttons",
+        "sticky_cart",
+        "okendo_star_rating_WNfXQa"
+      ],
+      "custom_css": [
+        "@media (max-width: 767px) {section {display: none !important; }}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "media_size": "medium",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "scrolling-promotion": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement-0": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "FREE SHIPPING on all orders over $100",
+            "text_size": 16,
+            "link": ""
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "EASY RETURNS 30-day postage paid returns",
+            "text_size": 16,
+            "link": ""
+          }
+        },
+        "announcement-3": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "10% OFF your first order | Use code: FIRST10",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-0",
+        "announcement-1",
+        "announcement-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#f1ff34",
+        "colors_text": "#212326",
+        "colors_background": "#f2f2f2",
+        "gradient_background": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_m6KxhQ": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "shield",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Made in UK",
+            "title_size": "h2",
+            "text": "<h5>All our products are designed and made in the UK<\/h5>"
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Sustainability",
+            "title_size": "h2",
+            "text": "<h5>Our signature packaging is fully recyclable and biodegradable<\/h5>"
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Cruelty Free",
+            "title_size": "h2",
+            "text": "<h5>All our ingredients are Cruelty Free and Vegan<\/h5>"
+          }
+        },
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Free Shipping",
+            "title_size": "h2",
+            "text": "<h5>Free Shipping on all orders over £50<\/h5>"
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "return",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Easy Returns",
+            "title_size": "h2",
+            "text": "<h5>Easily return your product if unopened<\/h5>"
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_m6KxhQ",
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
+      ],
+      "custom_css": [
+        ".grid--4-col-desktop .grid__item {width: calc(20% - var(--grid-horizontal-spacing) * 4 \/ 5);}"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": true,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_hFkHgy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_n6RNyW": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Description",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_cfntji": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.key_ingridients | metafield_tag }}",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        },
+        "button_ztk4VD": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_n6RNyW",
+        "text_cfntji",
+        "button_ztk4VD"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": true,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_DaBPze": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8H6HrJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "How to Use",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_7KPH4Y": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.howtouse | metafield_tag }}",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_MaeTXY": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8H6HrJ",
+        "text_7KPH4Y",
+        "button_MaeTXY"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/htu.png",
+        "image_position": "80% 50%",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "500px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_TEhqLt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eH4wLX": {
+          "type": "heading",
+          "settings": {
+            "heading": "How to Use",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_FMhkTN": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.howtouse | metafield_tag }}",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        },
+        "button_443KqA": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eH4wLX",
+        "text_FMhkTN",
+        "button_443KqA"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": true,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_A3jW4f": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hyX6Px": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ingredients",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_HXDxMR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.ingredients | metafield_tag }}<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_XQxhD6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hyX6Px",
+        "text_HXDxMR",
+        "button_XQxhD6"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ingre.png",
+        "image_position": "20% 0",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "500px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_PkYL8F": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rhbdHM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ingredients",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_3AMh88": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.ingredients | metafield_tag }}<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        },
+        "button_bg3BTw": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rhbdHM",
+        "text_3AMh88",
+        "button_bg3BTw"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": true,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_QAAzAq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8xXGpg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shipping Information",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_fMCqHf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>- No EU import duties.<br\/>- Ships within 1-2 business days.<br\/>- Ships in our fully recyclable and biodegradable signature boxes.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_XhciAL": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8xXGpg",
+        "text_fMCqHf",
+        "button_XhciAL"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shipping.png",
+        "image_position": "80% 0",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "500px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_TBKJGn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eLdxVU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shipping Information",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_hT87fD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>- No EU import duties.<br\/>- Ships within 1-2 business days.<br\/>- Ships in our fully recyclable and biodegradable signature boxes.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        },
+        "button_gCjHNF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eLdxVU",
+        "text_hT87fD",
+        "button_gCjHNF"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": true,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq_BDawQH": {
+      "type": "faq",
+      "blocks": {
+        "rich_text_9CCYaP": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Orders<\/h2>"
+          }
+        },
+        "question-0": {
+          "type": "question",
+          "settings": {
+            "title": "Can I cancel my order?",
+            "text": "<p>No, we are unable to cancel any orders once you have completed checkout and paid for your order. Please ensure you are<br\/>happy with your order before proceeding to checkout.<\/p>"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Can I amend my order?",
+            "text": "<p>No, once you have completed checkout, we are unable to amend your order. Please make sure you double-check all products and quantities ahead of completing your order.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Can you amend my billing address once I have placed an order?",
+            "text": "<p>No, we are unable to amend your billing address once your order is placed. You must check that the information you have entered at checkout is correct ahead of placing your order.<\/p>"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "What types of payment do you accept?",
+            "text": "<p>We accept payment at checkout by credit<br\/>& debit card, Apple Pay, Google Pay and PayPal.<\/p><p>You can also pay via a pre-purchased gift<br\/>card.<\/p>"
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "title": "Why is my promotion not working?",
+            "text": "<p>Please double-check the promotional code entered is correct and that you haven’t exceeded any expiration date. If your promotional code is still not working, please contact us at <a href=\"mailto:info@atenailondon.com\">info@atenailondon.com<\/a>. <\/p>"
+          }
+        },
+        "question-5": {
+          "type": "question",
+          "settings": {
+            "title": "I forgot to add a promotional code, can I add it after my order is placed?",
+            "text": "<p>Unfortunately, we cannot amend any orders once you have completed checkout, so we can’t add any promotional code for you. Please ensure you have added any promotional codes ahead of completing checking out.<\/p>"
+          }
+        },
+        "question_BGwE9J": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "question_hMY3Gm": {
+          "type": "question",
+          "settings": {
+            "title": "I can’t proceed to checkout?",
+            "text": "<p>Please check your basket hasn’t got any items that can’t be shipped to your region. If you have checked this and still<br\/>can’t checkout then please contact us at <a href=\"mailto:info@atenailondon.com\">info@atenailondon.com<\/a>. <\/p>"
+          }
+        },
+        "question_drTRjd": {
+          "type": "question",
+          "settings": {
+            "title": "How do I track my order?",
+            "text": "<p>We aim to dispatch your order as soon as we can. This can take up to 3 working days at busy periods. Once your order is dispatched you will receive a notification to confirm this. <\/p><p>UK mainland customers will then receive a notification from Evri, DPD with a tracking reference. International and<br\/>non-mainland UK will receive a tracking reference from DHL. <\/p><p>Please note that if you have only ordered fragrance samples, these are sent via Royal Mail (non-tracked).<\/p>"
+          }
+        },
+        "question_3ztRjd": {
+          "type": "question",
+          "settings": {
+            "title": "I haven’t received my order?",
+            "text": "<p>Please enter your tracking number on either the Evri, DPD or DHL site to check if they have attempted delivery, they could be holding it at a local collection depot for you. If you have done this and still don’t know where your order is, please contact <a href=\"mailto:enquiries@truegrace.com\">info@atenailondon.com<\/a><\/p><p>Please note: if you are ordering fragrance samples only, they are sent via Royal mail so you should receive them in the post.<\/p>"
+          }
+        },
+        "question_f4aBxP": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer gift wrap?",
+            "text": "<p>No, we don't offer any gift-wrapping service at present. We also don't offer any service to have your order gift boxed or wrapped in tissue paper. We do package your order in recyclable brown paper and compostable\/biodegradable corn starch chips.<\/p>"
+          }
+        },
+        "question_G8yfyf": {
+          "type": "question",
+          "settings": {
+            "title": "Can I add a gift message?",
+            "text": "<p>Gift messages can be added to your order at checkout. Please note that these must be within our 200-character word limit.<\/p>"
+          }
+        },
+        "rich_text_QNXPYV": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Delivery<\/h2>"
+          }
+        },
+        "question_KYLpJa": {
+          "type": "question",
+          "settings": {
+            "title": "How much does delivery cost?",
+            "text": "<p>Delivery costs depend on location. For a full list please <a href=\"https:\/\/atenailondon.com\/pages\/shipping-and-returns\">Click Here<\/a>. UK mainland orders under £50 are charged at £3.99 and international orders under £150 can range from £20 to £30, depending on location.<\/p><p> <\/p><p><strong>Please note<\/strong>:<br\/>If you use a discount code which brings your order below the free delivery threshold, you will be charged for shipping. Please ensure your order after discount is above the free delivery threshold to qualify for it.<\/p>"
+          }
+        },
+        "question_bTnwG3": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer free delivery?",
+            "text": "<p>For UK mainland  (England\/Scotland\/Wales) orders we offer free delivery when you spend £50 or more. <\/p><p>For Non-UK Mainland and International orders, we offer free delivery when you spend £150 or more.<\/p><p> <\/p><p><strong>Please note<\/strong>:<br\/>If you use a discount code which brings your order below the free delivery threshold, you will be charged for shipping. Please ensure your order after discount is above the free delivery threshold to qualify for it.<\/p>"
+          }
+        },
+        "question_grTBVn": {
+          "type": "question",
+          "settings": {
+            "title": " What are the delivery time options?",
+            "text": "<p>Delivery times are set by the carriers we use. <\/p><p> ~ For UK deliveries via DPD you can usually expect your order within 3 working days from dispatch. <\/p><p>~ Fragrance sample only orders sent via Royal Mail (for UK customers) can take up to 6 working days to arrive from dispatch. <\/p><p>~ International orders vary by location. A full list can be found <a href=\"https:\/\/atenailondon.com\/pages\/shipping-and-returns\">here<\/a>.<\/p>"
+          }
+        },
+        "question_HCUVGR": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship internationally?",
+            "text": "<p>Yes, we do. We ship to most locations across the world. Our full list of shipping rates can be found <a href=\"https:\/\/atenailondon.com\/pages\/shipping-and-returns\">here<\/a><strong>.<\/strong> <\/p><p><\/p><p>Unfortunately, we cannot ship to China or Russia at present. If you are trying to check out and you are getting an error after entering your address, please contact info@atenailondon.com. Please note we cannot ship room sprays to addresses outside of the UK mainland.<\/p>"
+          }
+        },
+        "question_yW44JT": {
+          "type": "question",
+          "settings": {
+            "title": "Are there any international restrictions on certain products?",
+            "text": "<p>Yes. We cannot ship any of our room sprays to addresses outside of the UK mainland.<\/p>"
+          }
+        },
+        "question_XtWBnR": {
+          "type": "question",
+          "settings": {
+            "title": "Which couriers do you use to deliver?",
+            "text": "<p>For UK mainland deliveries we use Evri Local.<\/p><p>For non-UK mainland and international orders, we use DHL.<\/p><p>For the free delivery of fragrance samples, we use Royal Mail.<\/p>"
+          }
+        },
+        "question_y8br8t": {
+          "type": "question",
+          "settings": {
+            "title": "Where do you ship from?",
+            "text": "<p>We ship from our warehouse in England, UK.<\/p>"
+          }
+        },
+        "rich_text_TBQGhF": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Payment & gift cards<\/h2>"
+          }
+        },
+        "question_CNDmRe": {
+          "type": "question",
+          "settings": {
+            "title": "What payment methods do you accept?",
+            "text": "<p>We also have an accelerated checkout, allowing us to save your customer payment and shipping information, so you can check out more quickly when placing orders with us.<\/p>"
+          }
+        },
+        "question_MC9MR7": {
+          "type": "question",
+          "settings": {
+            "title": "Do I get additional charges from usingapple, google or shop pay?",
+            "text": "<p>No, you'll incur no additional charges using these payment methods.<\/p>"
+          }
+        },
+        "question_Nr7c7N": {
+          "type": "question",
+          "settings": {
+            "title": "How do i purchase a e-gift card?",
+            "text": "<p>Select your chosen denomination from the <a href=\"https:\/\/truegrace.co.uk\/collections\/gift-sets\/products\/true-grace-gift-card\" target=\"_blank\" title=\"https:\/\/truegrace.co.uk\/collections\/gift-sets\/products\/true-grace-gift-card\">e-gift card<\/a> on the site and add to basket. You can then checkout as you normally would.<\/p><p>Once you have checked out you will receive an email, in addition to your order confirmation, with your e-gift card. You can then forward this onto the intended recipient.<\/p>"
+          }
+        },
+        "question_GGQwtR": {
+          "type": "question",
+          "settings": {
+            "title": "Do your e-gift cards have an expirydate?",
+            "text": "<p>Yes, all gift cards expire from 1 year after date of purchase. The expiry date is viewable on the email you receive once purchased and also via the “view gift card” link within this email.<\/p>"
+          }
+        },
+        "question_dzHzT7": {
+          "type": "question",
+          "settings": {
+            "title": "How do I redeem my e-gift card?",
+            "text": "<p>You will receive an email with the gift card amount after you purchase (which will arrive within a couple of minutes of you completing checkout). This email will be in addition to your order confirmation email. You can then forward this email onto the intended recipient.<\/p>"
+          }
+        },
+        "question_wf7hCG": {
+          "type": "question",
+          "settings": {
+            "title": "I used apple\/google\/shop pay but theaddress i had saved is incorrect. how do i amend?",
+            "text": "<p>We can amend the delivery address within 30mins of purchase. Unfortunately, we cannot amend billing addresses once you order has been placed.<\/p>"
+          }
+        },
+        "question_QdzzQ7": {
+          "type": "question",
+          "settings": {
+            "title": "Can I add the recipients email tocheckout and set a date for them to receive?",
+            "text": "<p>Unfortunately, you can’t add the recipients email to checkout or set a date for them to receive. The purchaser will receive the gift card email and can forward this onto to the intended recipient with their own message.<\/p>"
+          }
+        },
+        "question_ThCjgh": {
+          "type": "question",
+          "settings": {
+            "title": "Can I return an e-gift card?",
+            "text": "<p>All gift cards are non-returnable and non-refundable. Thy are valid for 1 year from purchase, and can be used in multiple transactions until the credit runs out.<\/p>"
+          }
+        },
+        "question_yXQRht": {
+          "type": "question",
+          "settings": {
+            "title": "Do you have any stores open?",
+            "text": "<p>Unfortunately, at present our presence is digital only, however with your support we are working hard to open our first Atenai London store in London very  soon.<\/p><p>Subscribe to our newsletter to find out more news as they happen.<\/p>"
+          }
+        },
+        "question_FaMcnX": {
+          "type": "question",
+          "settings": {
+            "title": "Where are your products stocked?",
+            "text": "<p>Please <a href=\"https:\/\/truegrace.co.uk\/pages\/stockist-locator\" target=\"_blank\" title=\"Stockists Locator\"><strong>Click Here<\/strong><\/a><strong> <\/strong>to view our stockists. <\/p><p>We recommend contacting any stockist ahead of visiting to check they have the range you are looking for.﻿<\/p>"
+          }
+        },
+        "rich_text_tPQp6r": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Account<\/h2>"
+          }
+        },
+        "question_M8JjhE": {
+          "type": "question",
+          "settings": {
+            "title": "I am having trouble logging in?",
+            "text": "<p>Firstly, check that you have the right login details for your account.<\/p><p>If you have not signed in to your account since we changed to our new site, you may need to update your login details. Click the “forgotten password” button and follow the instructions.<\/p><p>If you are still having issues, it could be because you either previously only checked out as a “guest” or your account has<br\/>been inactive for some time. If this is the case, please contact <a href=\"mailto:info@atenailondon.com\">info@atenailondon.com<\/a> and we can send you an account activation link. Please make sure to include the full name and email address you are using to log in.<\/p>"
+          }
+        },
+        "question_KCdApd": {
+          "type": "question",
+          "settings": {
+            "title": "How do I amend\/update my address?",
+            "text": "<p>You can update your shipping address at checkout. You can either update in the Information section of checkout or you can update in the shipping section by simply clicking on the change button next to the shipping address.<\/p><p>~ If you are updating your billing address, this can be done on the payment page of checkout.<\/p>"
+          }
+        },
+        "question_xwfqEk": {
+          "type": "question",
+          "settings": {
+            "title": "How do I sign-up for an account?",
+            "text": "<p>In our navigation, you will see an <a href=\"https:\/\/atenailondon.com\/account\/register\">Account Registration<\/a>. Simply click on this and fill out your details in the register section.<\/p>"
+          }
+        },
+        "question_q8w8iK": {
+          "type": "question",
+          "settings": {
+            "title": "How do I subscribe to your newsletter sand mailing lists?",
+            "text": "<p>You can do this in a few ways.<\/p><p> <\/p><p>At the footer of our website is a box to enter your email address. Simply enter this and subscribe.<\/p><p>On the homepage, there is a pop-up to subscribe. Simply enter your email address and sign-up.<\/p><p>At checkout simply tick the box which states “email me for news and offers”.<\/p>"
+          }
+        },
+        "rich_text_tqKq8T": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Product Information<\/h2>"
+          }
+        },
+        "question_wCDcqj": {
+          "type": "question",
+          "settings": {
+            "title": "Are Atenai London products natural?",
+            "text": "<p> All our products are as natural as we can make them without jeopardising our product efficacy and fragrance, to this day most of our products are 98% natural.<\/p><p>Our Hand & Body Wash is made using 99% natural ingredients and our lotions are made using 98% natural ingredients. Our toiletries range are free from nasty parabens, PEG's, petrochemicals and SLS.<\/p><p><\/p><p>If you can’t find the answers, you’re looking for then please get in touch by giving us a call on 02081246566 or dropping us an email online@plumandashby.co.uk.<\/p>"
+          }
+        },
+        "rich_text_kq7AiG": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Returns<\/h2>"
+          }
+        },
+        "question_7nkX3G": {
+          "type": "question",
+          "settings": {
+            "title": "How do I return an item?",
+            "text": "<p>We want to ensure you are totally satisfied when shopping with us, so if you change your mind for any reason, you are able to send an item that is unworn, still has its tags intact and in a resalable condition to us for Return, within <strong>14 days<\/strong> of it being dispatched to you.<\/p><p><strong>Holiday Returns<\/strong> (1 November to 31st December).<\/p><p>Extended holiday return period is offered till 31st January if ordered between the 1st November to the 31st December.<\/p><p>To arrange a return, please contact us and we will be more than happy to help you. All you need to tell us is which item you wish to return and the reason why.<\/p><p>You will need to pack the item securely and include a brief cover note stating:<\/p><p>Your order number<\/p><p>The item you would like to return <\/p><p>The reason for return <\/p><p>Whether you would like a refund or a replacement <\/p><p>Please ask for a <strong>\"Proof of posting certificate\"<\/strong> as we cannot be held responsible for goods that go missing whilst in transit.<\/p><p><strong>Return Address:<\/strong><\/p><p><strong><br\/>Besique – Atenai London<\/strong><\/p><p><strong>Unit 4 Sumner Point <\/strong><\/p><p><strong>Lancashire Business Park <\/strong><\/p><p><strong>Leyland <\/strong><\/p><p><strong>PR26 6TG<\/strong><\/p><p><strong>UK<\/strong><\/p>"
+          }
+        },
+        "question_nWD8HM": {
+          "type": "question",
+          "settings": {
+            "title": "When can't I return an item for exchange or refund?",
+            "text": "<p>In following circumstances we cannot exchange or refund your payment.<\/p><p>If the item has been worn <\/p><p>If the item has labels missing <\/p><p>If your returns period has expired<\/p>"
+          }
+        },
+        "question_7phyPC": {
+          "type": "question",
+          "settings": {
+            "title": "When will I receive my exchange or refund?",
+            "text": "<p>We will process your exchange or refund as soon as your item is received back into our warehouse.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_9CCYaP",
+        "question-0",
+        "question-1",
+        "question-2",
+        "question-3",
+        "question-4",
+        "question-5",
+        "question_BGwE9J",
+        "question_hMY3Gm",
+        "question_drTRjd",
+        "question_3ztRjd",
+        "question_f4aBxP",
+        "question_G8yfyf",
+        "rich_text_QNXPYV",
+        "question_KYLpJa",
+        "question_bTnwG3",
+        "question_grTBVn",
+        "question_HCUVGR",
+        "question_yW44JT",
+        "question_XtWBnR",
+        "question_y8br8t",
+        "rich_text_TBQGhF",
+        "question_CNDmRe",
+        "question_MC9MR7",
+        "question_Nr7c7N",
+        "question_GGQwtR",
+        "question_dzHzT7",
+        "question_wf7hCG",
+        "question_QdzzQ7",
+        "question_ThCjgh",
+        "question_yXQRht",
+        "question_FaMcnX",
+        "rich_text_tPQp6r",
+        "question_M8JjhE",
+        "question_KCdApd",
+        "question_xwfqEk",
+        "question_q8w8iK",
+        "rich_text_tqKq8T",
+        "question_wCDcqj",
+        "rich_text_kq7AiG",
+        "question_7nkX3G",
+        "question_nWD8HM",
+        "question_7phyPC"
+      ],
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible-content": {
+      "type": "collapsible-content",
+      "blocks": {
+        "question-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "question-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "question-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WzJdj3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "question-0",
+        "question-1",
+        "question-2",
+        "collapsible_row_WzJdj3"
+      ],
+      "disabled": true,
+      "settings": {
+        "open_first_collapsible_row": false,
+        "narrow": true,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_list_limit": 5,
+        "show_divider": false,
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1706270180b89a31c8": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-0",
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial-3",
+        "testimonial-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": false,
+        "show_divider": false,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Express yourself with",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>#instagram<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": true,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "gallery": {
+      "type": "gallery",
+      "blocks": {
+        "image-0": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h4",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "#summerMe",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-4": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "image-0",
+        "image-1",
+        "image-2",
+        "image-3",
+        "image-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "per_row": 5,
+        "spacing_images": 4,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 0,
+        "padding_bottom": 4
+      }
+    },
+    "17230333596055122d": {
+      "type": "apps",
+      "blocks": {
+        "okendo_reviews_widget_HD3twC": {
+          "type": "shopify:\/\/apps\/okendo\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "okendo_reviews_widget_HD3twC"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "scrolling-promotion",
+    "guarantees",
+    "rich_text_hFkHgy",
+    "image_with_text_DaBPze",
+    "rich_text_TEhqLt",
+    "image_with_text_A3jW4f",
+    "rich_text_PkYL8F",
+    "image_with_text_QAAzAq",
+    "rich_text_TBKJGn",
+    "faq_BDawQH",
+    "collapsible-content",
+    "product-recommendations",
+    "1706270180b89a31c8",
+    "testimonials",
+    "rich-text",
+    "gallery",
+    "17230333596055122d"
+  ]
+}

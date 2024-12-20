@@ -1,0 +1,200 @@
+{
+  "sections": {
+    "6f87d32b042dec51d4c989d64bcc7ab104f33a0529528b00b5b98dd3f0e138e76d7c399bfe254b6926ab9748f271c91ee2688ce1a70f095bc8a1580bb828dde8": {
+      "type": "apps",
+      "blocks": {
+        "okendo_loyalty_embedded_widget_cKhz8t": {
+          "type": "shopify:\/\/apps\/okendo\/blocks\/loyalty-embedded-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "okendo_loyalty_embedded_widget_cKhz8t"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "faq_LAmkCj": {
+      "type": "faq",
+      "blocks": {
+        "rich_text_jxWUkT": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2><strong>Frequently Asked Questions<\/strong><\/h2>"
+          }
+        },
+        "question_j8nfCY": {
+          "type": "question",
+          "settings": {
+            "title": "What is the Atenai London Club?",
+            "text": "<p>Welcome to the Atenai London Club Program<\/p><p>The Atenai London Club is Atenai<br\/>London’s *exclusive* rewards program that’ll give you ALL the good rewards for being a loyal friend. Earn VIP Points to cash in for discounts on your next order!<\/p><p>Points for every purchase<\/p><p>Collect points on every purchase<br\/>and enjoy exclusive discounts with our Atenai London Club Program. <\/p><p>When you shop with us you will<br\/>receive 1 point for every £1 you spend or more depending<br\/>where you are on the club level. <\/p><p>Points earned count towards a<br\/>discount that you can use when you hit the relevant thresholds.<\/p><p>The points you earn will<br\/>automatically display in your account. You need to ensure you have created an account with us to redeem your points. To create an account with us <a href=\"https:\/\/atenailondon.com\/account\/register\" target=\"_blank\" title=\"https:\/\/truegrace.co.uk\/account\/login\">click here.<\/a><\/p><p>You will automatically receive 50 points when you sign-up with us. <\/p><p>This is a gift to welcome you to<br\/>the Atenai London family.<\/p>"
+          }
+        },
+        "question_Lzh3T8": {
+          "type": "question",
+          "settings": {
+            "title": "How do I earn VIP Points?",
+            "text": "<p>When you join the Atenai London<br\/>Club, you earn VIP Points when you purchase eligible products. The points you earn are based on your current membership tier:<\/p><p><strong>VIP Member: <\/strong><\/p><p>1 VIP Point per £1 spent<\/p><p>Insider email list<\/p><p>100 points reward on your birthday<\/p><p><strong>VIP Insider:<\/strong><\/p><p>1.25 VIP Insider Point per £1 spent<\/p><p>Insider email list<\/p><p>Extra £5 on reaching VIP Insider Status<\/p><p>200 points reward on your birthday<\/p><p>Exclusive access to new launches<\/p><p>Exclusive access to special promotions<\/p><p><strong>VIP A-Lister:<\/strong><\/p><p>1.5 VIP A-Lister Points per £1 spent<\/p><p>Insider email list<\/p><p>Extra £10 on reaching VIP A-Lister Status<\/p><p>300 points reward on your birthday<\/p><p>Exclusive access to new launches<\/p><p>Exclusive access to special promotions<\/p><p>Free shipping on all orders<\/p><p><strong>A few more things to note:<\/strong><\/p><p>VIP Points are calculated based on the subtotal of a Qualifying Purchase after any discounts have been applied.<\/p><p>You don’t earn any VIP Points for pounds spent on applicable taxes, shipping or handling and the following products: Gift Cards or Gift Sets<\/p><p>When products are returned for a refund to the original payment method, VIP Points will be deducted from your account for the amount of the return, net of taxes, shipping and handling.<\/p>"
+          }
+        },
+        "question_nErkdh": {
+          "type": "question",
+          "settings": {
+            "title": "What can I redeem VIP Points for?",
+            "text": "<p>You can redeem VIP Points for<br\/>discounts on your next order depending on your tier! Offers include:<\/p><p>100 Points = Free Shipping<\/p><p>200 VIP Points = GB£10.00 off<br\/><br\/>400 VIP Points = GB£20.00 off<br\/><br\/>600 VIP Points = GB£30.00 off<br\/><br\/>800 VIP Points = GB£40.00 off<br\/><br\/>1000 VIP Points = GB£50.00 off<\/p>"
+          }
+        },
+        "question_UJhUWp": {
+          "type": "question",
+          "settings": {
+            "title": "Who can be part of the Atenai London Club?",
+            "text": "<p>Only customers from the United Kingdom can join the Atenai London Club at the moment. But don’t worry, we haven’t forgotten about the rest of you! Be on the lookout for an international Atenai London Club in the future.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_jxWUkT",
+        "question_j8nfCY",
+        "question_Lzh3T8",
+        "question_nErkdh",
+        "question_UJhUWp"
+      ],
+      "custom_css": [
+        "strong {text-align: center;}",
+        ".rte h2 {padding-bottom: 30px; max-height: 20px; min-height: 20px; padding-top: 30px; margin: 0 !important; margin-bottom: 0 !important;}"
+      ],
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "Atenai London Club",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "faq_3q6gWh": {
+      "type": "faq",
+      "blocks": {
+        "rich_text_Hhm9yc": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2><strong>Atenai London Club Terms & Conditions<\/strong><\/h2>"
+          }
+        },
+        "question_KDwGBc": {
+          "type": "question",
+          "settings": {
+            "title": "General",
+            "text": "<p>These Atenai London Terms & Conditions for the Atenai London Club Program are issued by Atenai London Limited and are part of the Atenai London General Terms and Conditions. In case of any discrepancy between Atenai London Club Terms and Conditions and the <a href=\"https:\/\/atenailondon.com\/pages\/terms-conditions\">Terms & Conditions<\/a>, the former prevail.<\/p><p>1.1 As a member of the Atenai London Club, we will spoil you with personalised offers and surprises. These personalised offers and surprises are based on your online<br\/>purchases and purchases in official Atenai London stores in participating countries. When you purchase Atenai London products from our partners, such as<br\/>warehouses, marketplaces, and shop-in-shops, or in countries other than participating countries, these will not be registered to your account. <\/p><p>Please note that in United Kingdom, the minimum age to create an Atenai London Club account is 16.<\/p><p>1.2 After registration, you can immediately enjoy the core benefits of our Loyalty program (see “CORE BENEFITS”). By completing more purchases, you can progress in the<br\/>program to enjoy additional surprises and benefits (see “ADDITIONAL BENEFITS”).<\/p>"
+          }
+        },
+        "question_qKzWRG": {
+          "type": "question",
+          "settings": {
+            "title": "Core Benefits",
+            "text": "<p>2.1 Upon registration, every Atenai London Club member is eligible for the following benefits:<\/p><p>• A 50 points “Thank You gift” on the day of signing up to Atenai London Club Loyalty Program.<\/p><p>• A birthday gift (voucher to be redeemed within 30 days from the registered date of birth, one gift per Atenai London member only. You will receive this gift with any purchase online or in a standalone Atenai London store, not available<br\/>in Atenai London outlet stores, wholesale partner locations or airports. Not valid when purchasing a gift card).<\/p><p>• Exclusive offers, personal surprises and the latest Atenai London news via email.<\/p><p>• Special text messages with invitations or offers (please see below under “SMS\/TEXT<br\/>MESSAGES ATENAI LONDON CLUB”).<\/p><p>• Invitations to special events; and<\/p><p>• Possible savings deals, where the applicable terms will be explained per deal.<\/p><p>2.2 All benefits will be automatically added to your account and are available upon identification or signing in. Benefits cannot be valued in monetary terms,<br\/>cannot be exchanged for money or a cash alternative and cannot be passed on to others. Offers may differ online and in store.<\/p>"
+          }
+        },
+        "question_RewNa6": {
+          "type": "question",
+          "settings": {
+            "title": "Additional Benefits",
+            "text": "<p>3.1 On top of the core benefits of the Atenai London Club Program, we would like to surprise our loyal members with additional benefits that can be unlocked during<br\/>our membership. <\/p><p>There are three different phases within our program with different surprises, the higher the phase you are in, the more luxurious the surprises are. <\/p><p>Unlike the fixed benefits that every Atenai London member enjoys, the additional benefits will be additional surprises on top of the core benefits and communicated to you once you are eligible.<\/p><p>3.2 The three phases are as described below, with every new member Atenai London Club member starting in the first phase.<\/p><p>• VIP Member<\/p><p>• VIP Insider<\/p><p>• VIP A-Lister <\/p><p>Rewards on club tiers<\/p><p><strong>VIP Member: <\/strong><\/p><p>1 VIP Point per £1 spent<\/p><p>Insider email list<\/p><p>100 points reward on your birthday<\/p><p><strong>VIP Insider:<\/strong><\/p><p>1.25 VIP Insider Point per £1 spent<\/p><p>Insider email list<\/p><p>Extra £5 on reaching the VIP Insider Status<\/p><p>200 points reward on your birthday<\/p><p>Exclusive access to new launches<\/p><p>Exclusive access to special promotions<\/p><p><strong>VIP A-Lister:<\/strong><\/p><p>1.5 VIP A-Lister Points per £1 spent<\/p><p>Insider email list<\/p><p>Extra £10 on reaching the VIP A-Lister Status<\/p><p>300 points reward on your birthday<\/p><p>Exclusive access to new launches<\/p><p>Exclusive access to special promotions<\/p><p>Free shipping on all orders<\/p><p><strong>REFER A FRIEND & GET £5 FREE!<\/strong><\/p><p>And your friends get 50% off their first order *with a purchase of £50 or more<\/p><p>3.3 The phase you are in depends on the number of purchases you did with your account (purchase of a Atenai London Club gift card is excluded). Please note that you<br\/>will be placed in the phase, based on the number of identified purchases since the start of your membership.<\/p><p>3.4 By completing more eligible purchases, your phase will progress accordingly. Your eligible benefits can be found in your Atenai London Club Account on the website or Atenai London App at all times. The conditions of these additional benefits will be explained per offer.<\/p><p>3.5 All available benefits will be automatically added to your account and are available upon identification or signing in. Offers or surprises cannot be valued in monetary terms, cannot be exchanged for money, and cannot be passed on to others. Offers may differ online and in store.<\/p>"
+          }
+        },
+        "question_Cj8zmf": {
+          "type": "question",
+          "settings": {
+            "title": "Sign Up, Edit & Unsubscribe",
+            "text": "<p>4.1 You can sign up as a Atenai London Club member in various ways namely:<\/p><p>• In a standalone Atenai London store in the countries where the Atenai London Club Program<br\/>has been rolled out;<\/p><p>• via SMS\/text message; and<\/p><p>• online; via the website or Atenai London App.<\/p><p>4.2 After completing your registration, you will receive a confirmation email with your<br\/>Atenai London Club member card number and digital member card. In case you did not create a password upon registration, you will receive an email to secure your account with a password. <\/p><p>These details are strictly personal and must be kept for yourself. Inform Atenai London immediately if you think a third party has acquired your password. A maximum of one account can be created per customer, only one email address can be registered per account.<\/p><p>4.3 You can always change your account details by logging in via your <a href=\"https:\/\/atenailondon.com\/account\/login\">Account Page<\/a>. You can also change your account in stores with the help of store personnel. Alternatively, our <a href=\"https:\/\/atenailondon.com\/pages\/contact\">Contact Us<\/a> team will be happy to help you. Also, in every email we send you, we will always offer you an opt-out.<\/p>"
+          }
+        },
+        "question_dPgE8F": {
+          "type": "question",
+          "settings": {
+            "title": "Personal Details",
+            "text": "<p>5.1 Atenai London processes the following personal details in connection with the Atenai London Club Program:<\/p><p>The necessary details are:<\/p><p>• First name & surname.<\/p><p>• Email address; and<\/p><p>• Date of birth.<\/p><p>The extra (optional) details we ask for are:<\/p><p>• Phone number.<\/p><p>• Gender.<\/p><p>5.2 If you make purchases in store, you can identify yourself with your (digital) member card to make use of your benefits and add your purchases to your account. When you make purchases as an Atenai London Club Member, Atenai London also registers the details of your purchase, including the date and location.<br\/><\/p><p>In doing so, Atenai London creates an interest’s profile on you in order to be able to select products, services, experiences and promotions that will be of<br\/>relevance to you. Atenai London processes your personal data in line with its <a href=\"https:\/\/atenailondon.com\/pages\/privacy-policy\">Privacy Policy<\/a>.<\/p>"
+          }
+        },
+        "question_ee4yQC": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Please go to our FAQ's page by clicking on the following link: <a href=\"https:\/\/atenailondon.com\/pages\/faq\" title=\"https:\/\/atenailondon.com\/pages\/faq\">https:\/\/atenailondon.com\/pages\/faq<\/a><\/p>"
+          }
+        },
+        "question_7DMW7P": {
+          "type": "question",
+          "settings": {
+            "title": "Email Communication Atenai London Club",
+            "text": "<p>6.1 The core of the Atenai London Club Program relates to receiving personalised offers and surprises, Atenai London news, invitations to special events via email et cetera. <\/p><p>As a result, only those who wish to receive these Atenai London Club marketing emails and provide their consent accordingly can create an Atenai London Club Account.<br\/><\/p><p>Nonetheless, should you, after you have created your Atenai London Club account, wish to opt-out to one or more of our communications via email, you can do so at any moment via the unsubscribe link in the footer of our emails or via your<br\/>Atenai London Club Account when logged in via the website or Atenai London App.<\/p>"
+          }
+        },
+        "question_ytYkmq": {
+          "type": "question",
+          "settings": {
+            "title": "SMS\/Text Messages from Atenai London Club",
+            "text": "<p>7.1<br\/>Atenai London may send to you marketing and promotional text messages using an automatic telephone dialling system (“Atenai London Club SMS”) if you provided us with your explicit prior consent to do so.<\/p><p>7.2 Such Atenai London SMS will be sent to the mobile phone number you provide to Atenai London, as part of your enrolment or subsequently when you sign up for Atenai London Club SMS text messaging. By opting in to the Atenai London Club SMS<br\/>Program, you represent that the mobile number for which you have opted-in, is one for which you are authorised to provide consent to receive SMS from Atenai<br\/>London Club,<\/p><p>7.3 You understand that we do not rely on your consent where we need to contact you in relation to a purchase from Atenai London or as part of your general participation in the Atenai London Club Program. You may withdraw your consent<br\/>at any time. To withdraw your consent and opt-out of text messages at any time, send a text message with ' Atenai London Club STOP' to 63666. Please note that<br\/>you may receive one additional SMS confirming your opt-out. <\/p><p>7.4 You agree that if and before you disconnect or transfer your mobile number, you will opt-out that number from Atenai London Club SMS Program.<\/p>"
+          }
+        },
+        "question_VTL7FN": {
+          "type": "question",
+          "settings": {
+            "title": "Miscellaneous",
+            "text": "<p>8.1 Membership of the Atenai London Club Program is for an indefinite period. Atenai London maintains the right to alter the general terms and conditions and<br\/>the contents of the Atenai London Club Program at any given moment.<\/p><p>8.2 Notwithstanding the other provisions of these terms and conditions, your application for membership may at any time be refused and\/or your Atenai<br\/>London account may be suspended or terminated and\/or your benefits may be withdrawn in connection or as a result of misuse of the services, the program and\/or benefits which are available to members from time to time.<\/p><p>8.3 You will always be informed prior to any changes regarding the club program. If for some reason you do not agree with the changes, you are free to end your membership of the Atenai London Club Program.<\/p><p>8.4 If you signed up as a member before the 1st of January 2024, all<br\/>your previous purchases with your account will be included to determine the phase and benefits of your membership. You can see an overview of the phase you are in and the benefits that you can enjoy in your Atenai London Club Account.<\/p><p>8.5 You can end your membership of the Atenai London Club Loyalty Program at any given moment by sending a request via <a href=\"https:\/\/atenailondon.com\/pages\/contact\">Contact Us Page<\/a>. In the contact form you can select ‘Privacy – GDPR’ as topic, followed by ‘Right to delete my personal data’ as subtopic and all the gained benefits will be void. <\/p><p>8.6 The benefits of the program may differ per country; all applicable benefits can be found in the general terms of the respective country.<\/p><p>8.7 You can also contact us with any other questions about the Atenai London Club Program<br\/>via the contact form, by filling in the applicable topic and subtopic and all relevant fields.<\/p><p>8.8 UK law applies to the Atenai London Club Program. The competent court in London,<br\/>UK has the non-exclusive jurisdiction to settle disputes in connection to these terms and conditions, which means that you can file a claim to enforce your<br\/>consumer protection rights in connection with these terms and conditions in London.<\/p><p>[1] As per 1st January 2024, the participating countries are: The<br\/>Netherlands, Belgium, Luxembourg, Germany, Austria, Switzerland, Sweden, France, United Kingdom, Ireland, United States, Spain, Portugal, Norway, Denmark, Poland, Italy, Hong Kong, and Finland.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_Hhm9yc",
+        "question_KDwGBc",
+        "question_qKzWRG",
+        "question_RewNa6",
+        "question_Cj8zmf",
+        "question_dPgE8F",
+        "question_ee4yQC",
+        "question_7DMW7P",
+        "question_ytYkmq",
+        "question_VTL7FN"
+      ],
+      "custom_css": [
+        ".rte h2 {padding-bottom: 30px; max-height: 20px; min-height: 20px; padding-top: 30px; margin: 0 !important; margin-bottom: 0 !important;}"
+      ],
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "6f87d32b042dec51d4c989d64bcc7ab104f33a0529528b00b5b98dd3f0e138e76d7c399bfe254b6926ab9748f271c91ee2688ce1a70f095bc8a1580bb828dde8",
+    "main",
+    "faq_LAmkCj",
+    "faq_3q6gWh"
+  ]
+}

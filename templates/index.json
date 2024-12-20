@@ -1,0 +1,1152 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/30_19.png",
+            "image_position": "center center",
+            "text_box_position": "bottom-left",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset",
+            "button_label": "VIew more",
+            "button_link": "https:\/\/atenailondon.com\/collections\/gift-sets",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
+        },
+        "image_V8mKUw": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fleurs_d_Oasis_Body_Lotion_1200x1189_df1f6654-6f8d-4d53-a4f0-5ecfe3a3088f.webp",
+            "image_position": "center center",
+            "text_box_position": "bottom-left",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Oasis",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset",
+            "button_label": "View more",
+            "button_link": "shopify:\/\/collections\/oasis",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "image_aUACqK": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_position": "center center",
+            "text_box_position": "bottom-left",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Blossom",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset",
+            "button_label": "View more",
+            "button_link": "shopify:\/\/collections\/blossom",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "image_V8mKUw",
+        "image_aUACqK"
+      ],
+      "settings": {
+        "slideshow_type": "legacy",
+        "text_alignment": "left",
+        "image_ratio": "100vh",
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "full_width": true,
+        "image_behavior": "none",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "300px",
+        "show_text_below": false,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#1a1b18",
+        "colors_overlay_opacity": 16,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-0": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>More than just a luxury beauty and<br\/>wellness brand, Atenai London is a movement that believes premium, high-quality products and signature scents, should be accessible to all. <em><strong><br\/><br\/><\/strong><\/em><strong>✨ <\/strong>Embrace the art of well-being<strong>✨<\/strong><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "underline"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#ffb503",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8c5638a4-16e6-4652-a09d-e3e5856fd38b": {
+      "type": "collection-list",
+      "blocks": {
+        "template--20559539929426__8c5638a4-16e6-4652-a09d-e3e5856fd38b-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sanctuary",
+            "image_position": "center center"
+          }
+        },
+        "template--20559539929426__8c5638a4-16e6-4652-a09d-e3e5856fd38b-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oasis",
+            "image_position": "center center"
+          }
+        },
+        "template--20559539929426__8c5638a4-16e6-4652-a09d-e3e5856fd38b-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "blossom",
+            "image_position": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--20559539929426__8c5638a4-16e6-4652-a09d-e3e5856fd38b-featured_collection-1",
+        "template--20559539929426__8c5638a4-16e6-4652-a09d-e3e5856fd38b-featured_collection-2",
+        "template--20559539929426__8c5638a4-16e6-4652-a09d-e3e5856fd38b-featured_collection-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_view_all": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "apply_overlay": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "featured_collection_qtCDeD": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "sanctuary",
+        "products_to_show": 5,
+        "show_view_all": false,
+        "show_divider": false,
+        "heading": "Featured Collection",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "p",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": false,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "guarantees_ex3wN4": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_NKbbb4": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "shield",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Made in UK",
+            "title_size": "h4",
+            "text": "<h5>All our products are designed and made in the UK<\/h5>"
+          }
+        },
+        "guarantee_iUT47W": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Sustainability",
+            "title_size": "h2",
+            "text": "<h5>Our signature packaging is fully recyclable and biodegradable<\/h5>"
+          }
+        },
+        "guarantee_km67gD": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Cruelty Free",
+            "title_size": "h4",
+            "text": "<h5>All our ingredients are Cruelty Free and Vegan<\/h5>"
+          }
+        },
+        "guarantee_H3VKTY": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Free Shipping",
+            "title_size": "h4",
+            "text": "<h5>Free Shipping on all orders over £50<\/h5>"
+          }
+        },
+        "guarantee_zDjznK": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "return",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Easy Returns",
+            "title_size": "h4",
+            "text": "<h5>Easily return your product if unopened<\/h5>"
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_NKbbb4",
+        "guarantee_iUT47W",
+        "guarantee_km67gD",
+        "guarantee_H3VKTY",
+        "guarantee_zDjznK"
+      ],
+      "custom_css": [
+        ".grid--4-col-desktop .grid__item {width: calc(20% - var(--grid-horizontal-spacing) * 4 \/ 5);}"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_bgPETq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XxX7Yt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sanctuary Parfum, Hand & Body Collection Gift Set",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_zQekeX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Indulge in the luxurious Sanctuary Parfum, Hand & Body Collection Gift Set, a perfect blend of elegance and self-care. This exclusive set features Eau de Parfum, Hand & Body Wash, Hand & Body Lotion, Shampoo, and Conditioner—each crafted to elevate your daily rituals.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "button_KbiDA9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "https:\/\/atenailondon.com\/collections\/gift-sets\/products\/atenai-london-sanctuary-hand-body-collection-gift-set",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XxX7Yt",
+        "text_zQekeX",
+        "button_KbiDA9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Christmas_Shots_8.jpg",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_product_44p8Xf": {
+      "type": "featured-product",
+      "blocks": {
+        "title_88mcV8": {
+          "type": "title",
+          "settings": {
+            "title_size": "h1",
+            "title_tag": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "rating_Fi8mKX": {
+          "type": "rating",
+          "settings": {}
+        },
+        "countdown_XMFf67": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#feeeee"
+          }
+        },
+        "price_HWiWRg": {
+          "type": "price",
+          "settings": {
+            "price_size": "large",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "variant_picker_YPMDKF": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "swatch_type": "round",
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
+        "text_FYGhiy": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "<p><b>Mood: <\/b>Nourishing and Uplifting <\/p><p>\u2028<b>Fragrance: <\/b>Sanctuary - Rose & Frankincense<\/p><p>Immerse yourself in our Sanctuary Eau de Parfum where scent transcends the ordinary and transforms into a refuge for self-love, mindfulness, and profound well-being.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "buy_buttons_W8fCdd": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "read_more_zMYpJy": {
+          "type": "read_more",
+          "settings": {
+            "show_icon": false
+          }
+        },
+        "share_byzdjh": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title_88mcV8",
+        "rating_Fi8mKX",
+        "countdown_XMFf67",
+        "price_HWiWRg",
+        "variant_picker_YPMDKF",
+        "text_FYGhiy",
+        "buy_buttons_W8fCdd",
+        "read_more_zMYpJy",
+        "share_byzdjh"
+      ],
+      "settings": {
+        "product": "sanctuary-eau-de-parfum",
+        "layout": "media_first",
+        "full_width": false,
+        "show_divider": false,
+        "hide_variants": false,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "image_ratio": "adapt_first",
+        "image_position": "center center",
+        "enable_layered_images": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_QfFNwm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DnfChx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Extra Thoughtful Gifts",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_wGpmh9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Create a gift of your own choice<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_YFDrkY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy 3 and get 15% OFF",
+            "button_link": "\/apps\/gbb\/easybundle\/1?page=addProductsPage1&currentFlow=byob",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DnfChx",
+        "text_wGpmh9",
+        "button_YFDrkY"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Atenai_London_Gift_Set_Box_1_jpg.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_WLHtmy": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "fragrance",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Shop By Fragrance",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_HwQAkU": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/a069b7d1ec6e4a73af8f3ef57a4ed1c9.HD-720p-1.6Mbps.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Product Of The Month",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17278066203055b028": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_xBGzVt": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
+        },
+        "klaviyo_email_marketing_sms_form_embed_block_TwzKrp": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Xd5bCA"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_xBGzVt",
+        "klaviyo_email_marketing_sms_form_embed_block_TwzKrp"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "newsletter_cpPE3P": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_gyDPkq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_tag": "h2"
+          }
+        },
+        "paragraph_TezyWi": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email_form_a3VJ3w": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_gyDPkq",
+        "paragraph_TezyWi",
+        "email_form_a3VJ3w"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": true,
+        "show_divider": false,
+        "colors_text": "#1a1b18",
+        "colors_border": "#d2d5d9",
+        "colors_background": "#f7eedd",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "images_with_text_MdgGaz": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading_xpXNWQ": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Your gift this month",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_CNXUxn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_yh3gjw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore Gift Sets",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xpXNWQ",
+        "text_CNXUxn",
+        "button_yh3gjw"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Atenai_London_Gift_Set_5.jpg",
+        "image_2": "shopify:\/\/shop_images\/AtenaiLondonConditionerSanctuary1.jpg",
+        "image_3": "shopify:\/\/shop_images\/AtenaiLondonCandleSanctuary1.png",
+        "image_4": "shopify:\/\/shop_images\/bb83d87b7deb4d63cb58601abda48701.jpg",
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "collection": "gift-sets",
+        "products_to_show": 5,
+        "show_view_all": false,
+        "show_divider": false,
+        "heading": "Gift Sets",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "p",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "bundle-products": {
+      "type": "bundle-products",
+      "blocks": {
+        "product-0": {
+          "type": "product",
+          "settings": {
+            "product": "sanctuary-body-wash",
+            "image_ratio": "square",
+            "show_vendor": false,
+            "show_quick_buy": true,
+            "enable_quick_view": true,
+            "color": "#ffffff",
+            "horizontal": 15,
+            "vertical": 40
+          }
+        },
+        "product-2": {
+          "type": "product",
+          "settings": {
+            "product": "sanctuary-body-lotion",
+            "image_ratio": "square",
+            "show_vendor": false,
+            "show_quick_buy": true,
+            "enable_quick_view": true,
+            "color": "#ffffff",
+            "horizontal": 50,
+            "vertical": 37
+          }
+        },
+        "product-1": {
+          "type": "product",
+          "settings": {
+            "product": "sanctuary-eau-de-parfum",
+            "image_ratio": "square",
+            "show_vendor": false,
+            "show_quick_buy": true,
+            "enable_quick_view": true,
+            "color": "#ffffff",
+            "horizontal": 70,
+            "vertical": 29
+          }
+        },
+        "product_HEkM6Y": {
+          "type": "product",
+          "settings": {
+            "product": "sanctuary-hair-shampoo",
+            "image_ratio": "adapt",
+            "show_vendor": false,
+            "show_quick_buy": false,
+            "enable_quick_view": true,
+            "color": "#fcfcfc",
+            "horizontal": 30,
+            "vertical": 40
+          }
+        }
+      },
+      "block_order": [
+        "product-0",
+        "product-2",
+        "product-1",
+        "product_HEkM6Y"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner_1000x11000_24bbdbd7-ec98-4f0c-878e-4b669d61baf3.jpg",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "subheading": "",
+        "subheading_size": "h5",
+        "heading": "Buy 3 and Get 15% OFF",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "1706269897c51483a3": {
+      "type": "apps",
+      "blocks": {
+        "okendo_reviews_widget_tX7QTK": {
+          "type": "shopify:\/\/apps\/okendo\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "okendo_reviews_widget_tX7QTK"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Instafeed",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>#instagram<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": true,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 4
+      }
+    },
+    "172703720985e5507d": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_djj7ke": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_djj7ke"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-0",
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial-3",
+        "testimonial-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "autorotate": true,
+        "autorotate_speed": 7,
+        "hide_images": false,
+        "show_divider": false,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "gallery": {
+      "type": "gallery",
+      "blocks": {
+        "image-0": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ins-2_-_Copy.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h4",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "#summerMe",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ins-2_-_Copy.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "image-0",
+        "image-1",
+        "image-2",
+        "image-3",
+        "image-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "per_row": 5,
+        "spacing_images": 0,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "mobile_image_height": 160,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "99cc6b1e-9006-4eab-9ef6-12c7ac18c208": {
+      "type": "featured-blog",
+      "blocks": {
+        "template--20559539929426__99cc6b1e-9006-4eab-9ef6-12c7ac18c208-title-1": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": false
+          }
+        },
+        "template--20559539929426__99cc6b1e-9006-4eab-9ef6-12c7ac18c208-read_more-1": {
+          "type": "read_more",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--20559539929426__99cc6b1e-9006-4eab-9ef6-12c7ac18c208-title-1",
+        "template--20559539929426__99cc6b1e-9006-4eab-9ef6-12c7ac18c208-read_more-1"
+      ],
+      "settings": {
+        "blog": "news",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Journal",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 12,
+        "padding_bottom": 48
+      }
+    },
+    "newsletter_8FkeAx": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_3xtGQD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_tag": "h2"
+          }
+        },
+        "paragraph_9Fe4CL": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email_form_Ntkcn9": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_3xtGQD",
+        "paragraph_9Fe4CL",
+        "email_form_Ntkcn9"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "colors_text": "#1a1b18",
+        "colors_border": "#d2d5d9",
+        "colors_background": "#efefef",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_YTNfyE": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<style>\n      .pic-icon-content ul {\n        padding: 0px;\n        list-style: none;\n        display: flex;\n        flex-wrap: wrap;\n        flex-grow: 1;\n        justify-content: center;\n      }\n      .pic-icon-content ul li {\n        padding: 10px 0px;\n        width: 50%;\n      }\n      .pic-icon-content .pic-icon-heading {\n        width: 100%;\n        margin: auto;\n      }\n      .pi-items  {\n        display: flex;\n        align-items: center;\n        gap: 15px;\n      }\n      .pi-items  h1{\n        font-weight: 400;\n        color: #343434;\n        font-size: 20px;\n      }\n      .pi-items  img {\n        border: 1px solid black;\n        border-radius: 50%;\n        width: 60px;\n      }\n      .pic-icon-content {\n        width: 70%;\n        margin: auto;\n      }\n\n      @media screen and (max-width: 480px) {\n        .pic-icon-content {\n          width: 100%;\n        }\n        .pic-icon-content ul li {\n          width: 100%;\n          margin: auto;\n        }\n      }\n      @media screen and (max-width: 890px) {\n        .pic-icon-content {\n          width: 100%;\n        }\n      }\n      @media screen and (max-width: 690px) {\n        .pic-icon-content ul {\n          display: block;\n        }\n        .pic-icon-content ul li {\n          width: 100%;\n          margin: auto;\n        }\n        .pi-items {\n            display: flex;\n        }\n      }\n    <\/style>\n<div class=\"pic-icons\">        \n        <div class=\"pic-icon-content\">\n          <div class=\"pic-icon-heading\">\n            <h1>Proud to be:<\/h1>\n          <\/div>\n          <ul>\n            <li>\n              <div class=\"pi-items\">\n                <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0802\/4198\/3826\/files\/icon-1.png?v=1727737231\" alt=\"Signature Fragrances\" \/>\n                <h1>Signature Fragrances<\/h1>\n              <\/div>\n            <\/li>\n            <li>\n              <div class=\"pi-items\">\n                <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0802\/4198\/3826\/files\/icon-2.png?v=1727737230\" alt=\"Made in the UK\" \/>\n                <h1>Made in the UK<\/h1>\n              <\/div>\n            <\/li>\n            <li>\n              <div class=\"pi-items\">\n                <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0802\/4198\/3826\/files\/icon-3.png?v=1727737231\" alt=\"Vegan Friendly\" \/>\n                <h1>Vegan Friendly<\/h1>\n              <\/div>\n            <\/li>\n            <li>\n              <div class=\"pi-items\">\n                <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0802\/4198\/3826\/files\/icon-4.png?v=1727737229\" alt=\"Cruelty Free\" \/>\n                <h1>Cruelty Free<\/h1>\n              <\/div>\n            <\/li>\n            <li>\n              <div class=\"pi-items\">\n                <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0802\/4198\/3826\/files\/icon-5.png?v=1727737231\" alt=\"Recyclable Material\" \/>\n                <h1>Recyclable Material<\/h1>\n              <\/div>\n            <\/li>\n            <li>\n              <div class=\"pi-items\">\n                <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0802\/4198\/3826\/files\/icon-6.png?v=1727737230\" alt=\"High Concentration of Active Ingredients\" \/>\n                <h1>High Concentration of Active Ingredients<\/h1>\n              <\/div>\n            <\/li>\n            <li>\n              <div class=\"pi-items\">\n                <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0802\/4198\/3826\/files\/icon-7.png?v=1727737230\" alt=\"Paraben Free & Silicone Free\" \/>\n                <h1>Paraben Free & Silicone Free<\/h1>\n              <\/div>\n            <\/li>\n            <li>\n              <div class=\"pi-items\">\n                <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0802\/4198\/3826\/files\/icon-8.png?v=1727737231\" alt=\"Sulphate Free\" \/>\n                <h1>Sulphate Free<\/h1>\n              <\/div>\n            <\/li>\n            <li>\n              <div class=\"pi-items\">\n                <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0802\/4198\/3826\/files\/icon-9.png?v=1727737230\" alt=\"Clean & Efficient Formula\" \/>\n                <h1>Clean & Efficient Formula<\/h1>\n              <\/div>\n            <\/li>            \n          <\/ul>\n        <\/div>\n      <\/div>",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "rich-text-0",
+    "8c5638a4-16e6-4652-a09d-e3e5856fd38b",
+    "featured_collection_qtCDeD",
+    "guarantees_ex3wN4",
+    "image_with_text_bgPETq",
+    "featured_product_44p8Xf",
+    "image_with_text_QfFNwm",
+    "featured_collection_WLHtmy",
+    "video_HwQAkU",
+    "17278066203055b028",
+    "newsletter_cpPE3P",
+    "images_with_text_MdgGaz",
+    "featured-collection",
+    "bundle-products",
+    "1706269897c51483a3",
+    "rich-text-1",
+    "172703720985e5507d",
+    "testimonials",
+    "gallery",
+    "99cc6b1e-9006-4eab-9ef6-12c7ac18c208",
+    "newsletter_8FkeAx",
+    "custom_liquid_YTNfyE"
+  ]
+}

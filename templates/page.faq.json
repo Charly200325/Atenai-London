@@ -1,0 +1,516 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image-banner": {
+      "type": "image-banner",
+      "blocks": {
+        "image-banner-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQ",
+            "heading_size": "h0",
+            "heading_tag": "h2"
+          }
+        },
+        "image-banner-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Got a question? Find our FAQs here. If your question hasn't been answered here, drop us a line or use our Contact Form. <\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image-banner-0",
+        "image-banner-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/after.jpg",
+        "image_position": "center center",
+        "text_box_position": "bottom-center",
+        "text_alignment": "center",
+        "image_ratio": "550px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "400px",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "rich_text_9CCYaP": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Orders<\/h2>"
+          }
+        },
+        "question-0": {
+          "type": "question",
+          "settings": {
+            "title": "Can I cancel my order?",
+            "text": "<p>No, we are unable to cancel any orders once you have completed checkout and paid for your order. Please ensure you are happy with your order before proceeding to check out.<\/p>"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Can I amend my order?",
+            "text": "<p>No, once you have completed checkout, we are unable to amend your order. Please make sure you double-check all products and quantities ahead of completing your order.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Can you amend my billing address once I have placed an order?",
+            "text": "<p>No, we are unable to amend your billing address once your order is placed. You must check that the information you have entered at checkout is correct ahead of placing your order.<\/p>"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "What types of payment do you accept?",
+            "text": "<p>We accept payment at checkout by credit & debit card, Apple Pay, Google Pay, ClearPay, Klarna and PayPal.<\/p><p>You can also pay via a pre-purchased gift card.<\/p>"
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "title": "Why is my promotion not working?",
+            "text": "<p>Please double-check the promotional code entered is correct and that you haven’t exceeded any expiration date. If your promotional code is still not working, please contact us at wecare@atenailondon.com. <\/p>"
+          }
+        },
+        "question-5": {
+          "type": "question",
+          "settings": {
+            "title": "I forgot to add a promotional code, can I add it after my order is placed?",
+            "text": "<p>Unfortunately, we cannot amend any orders once you have completed checkout, so we can’t add any promotional code for you. Please ensure you have added any promotional codes ahead of completing checking out.<\/p>"
+          }
+        },
+        "question_hMY3Gm": {
+          "type": "question",
+          "settings": {
+            "title": "I can’t proceed to checkout?",
+            "text": "<p>Please check your basket hasn’t got any items that can’t be shipped to your region. If you have checked this and still can’t checkout then please contact us at wecare@atenailondon.com. <\/p>"
+          }
+        },
+        "question_drTRjd": {
+          "type": "question",
+          "settings": {
+            "title": "How do I track my order?",
+            "text": "<p>We aim to dispatch your order as soon as we can. This can take up to 3 working days at busy periods. Once your order is dispatched you will receive a notification to confirm this. <\/p><p>UK mainland customers will then receive a notification from Royal Mail, Evri, DPD with a tracking reference. International and<br\/>non-mainland UK will receive a tracking reference from Royal Mail International or DHL. <\/p><p>Please note that if you have only ordered fragrance samples, these are sent via Royal Mail (non-tracked).<\/p>"
+          }
+        },
+        "question_3ztRjd": {
+          "type": "question",
+          "settings": {
+            "title": "I haven’t received my order?",
+            "text": "<p>Please enter your tracking number on either the Royal Mail, Evri, DPD or DHL site to check if they have attempted delivery, they could be holding it at a local collection depot for you. <\/p><p>If you have done this and still don’t know where your order is, please contact wecare@atenailondon.com.<\/p><p>Please note: if you are ordering fragrance samples only, they are sent via Royal mail so you should receive them in the post.<\/p>"
+          }
+        },
+        "question_f4aBxP": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer gift wrap?",
+            "text": "<p>No, unfortunately we don't offer any gift-wrapping service at present. We also don't offer any service to have your order gift boxed unless they have been purchased via the gift set page.<\/p>"
+          }
+        },
+        "question_G8yfyf": {
+          "type": "question",
+          "settings": {
+            "title": "Can I add a gift message?",
+            "text": "<p>We cannot add gift messages to your order at checkout at the moment. <\/p>"
+          }
+        },
+        "rich_text_QNXPYV": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Delivery<\/h2>"
+          }
+        },
+        "question_KYLpJa": {
+          "type": "question",
+          "settings": {
+            "title": "How much does delivery cost?",
+            "text": "<p>Delivery costs depend on location. For a full list please <a href=\"https:\/\/atenailondon.com\/pages\/shipping-and-returns\">Click Here<\/a>. UK mainland orders under £50 are charged at £2.99 and international orders under £150 can range from £20 to £50, depending on location.<\/p><p><strong>Please note<\/strong>:<br\/>If you use a discount code which brings your order below the free delivery threshold, you will be charged for shipping. Please ensure your order after discount is above the free delivery threshold to qualify for it.<\/p>"
+          }
+        },
+        "question_bTnwG3": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer free delivery?",
+            "text": "<p>For UK mainland  (England\/Scotland\/Wales) orders we offer free delivery when you spend £50 or more. <\/p><p>For Non-UK Mainland and International orders, we offer free delivery when you spend £150 or more.<\/p><p><strong>Please note<\/strong>:<br\/>If you use a discount code which brings your order below the free delivery threshold, you will be charged for shipping. Please ensure your order after discount is above the free delivery threshold to qualify for it.<\/p>"
+          }
+        },
+        "question_grTBVn": {
+          "type": "question",
+          "settings": {
+            "title": " What are the delivery time options?",
+            "text": "<p>Delivery times are set by the carriers we use. <\/p><p>For UK deliveries via Royal Mail, Evri or DPD you can usually expect your order within 3 working days from dispatch. <\/p><p>Fragrance sample only orders sent via Royal Mail (for UK customers) can take up to 6 working days to arrive from dispatch. <\/p><p>International orders vary by location. A full list can be found <a href=\"https:\/\/atenailondon.com\/pages\/shipping-and-returns\">here<\/a>.<\/p>"
+          }
+        },
+        "question_HCUVGR": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship internationally?",
+            "text": "<p>Yes, we do. We ship to most locations across the world. Our full list of shipping rates can be found <a href=\"https:\/\/atenailondon.com\/pages\/shipping-and-returns\">here<\/a><strong>.<\/strong> <\/p><p>Unfortunately, we cannot ship to China or Russia at present. If you are trying to check out and you are getting an error after entering your address, please contact wecare@atenailondon.com. Please note we cannot ship room sprays to addresses outside of the UK mainland.<\/p>"
+          }
+        },
+        "question_yW44JT": {
+          "type": "question",
+          "settings": {
+            "title": "Are there any international restrictions on certain products?",
+            "text": "<p>Yes. We cannot ship any of our room sprays to addresses outside of the UK mainland.<\/p>"
+          }
+        },
+        "question_XtWBnR": {
+          "type": "question",
+          "settings": {
+            "title": "Which couriers do you use to deliver?",
+            "text": "<p>For UK mainland deliveries we use Royal Mail, Evri Local.<\/p><p>For non-UK mainland and international orders, we use Royal Mail International or DHL.<\/p><p>For the free delivery of fragrance samples, we use Royal Mail.<\/p>"
+          }
+        },
+        "question_y8br8t": {
+          "type": "question",
+          "settings": {
+            "title": "Where do you ship from?",
+            "text": "<p>We ship from our warehouse in England, UK.<\/p>"
+          }
+        },
+        "rich_text_TBQGhF": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Payment & gift cards<\/h2>"
+          }
+        },
+        "question_CNDmRe": {
+          "type": "question",
+          "settings": {
+            "title": "What payment methods do you accept?",
+            "text": "<p>We also have an accelerated checkout, allowing us to save your customer payment and shipping information, so you can check out more quickly when placing orders with us.<\/p>"
+          }
+        },
+        "question_MC9MR7": {
+          "type": "question",
+          "settings": {
+            "title": "Do I get additional charges from using apple, google or shop pay?",
+            "text": "<p>No, you'll incur no additional charges using these payment methods.<\/p>"
+          }
+        },
+        "question_Nr7c7N": {
+          "type": "question",
+          "settings": {
+            "title": "How do i purchase a e-gift card?",
+            "text": "<p>Select your chosen denomination from the site and add to basket. You can then checkout as you normally would.<\/p><p>Once you have checked out you will receive an email, in addition to your order confirmation, with your e-gift card. You can then forward this onto the intended recipient.<\/p>"
+          }
+        },
+        "question_GGQwtR": {
+          "type": "question",
+          "settings": {
+            "title": "Do your e-gift cards have an expiry date?",
+            "text": "<p>Yes, all gift cards expire from 1 year after date of purchase. The expiry date is viewable on the email you receive once purchased and also via the “view gift card” link within this email.<\/p>"
+          }
+        },
+        "question_dzHzT7": {
+          "type": "question",
+          "settings": {
+            "title": "How do I redeem my e-gift card?",
+            "text": "<p>You will receive an email with the gift card amount after you purchase (which will arrive within a couple of minutes of you completing checkout). This email will be in addition to your order confirmation email. You can then forward this email onto the intended recipient.<\/p>"
+          }
+        },
+        "question_wf7hCG": {
+          "type": "question",
+          "settings": {
+            "title": "I used apple\/google\/shop pay but the address i had saved is incorrect. how do i amend?",
+            "text": "<p>We can amend the delivery address within 30mins of purchase. Unfortunately, we cannot amend billing addresses once you order has been placed.<\/p>"
+          }
+        },
+        "question_QdzzQ7": {
+          "type": "question",
+          "settings": {
+            "title": "Can I add the recipients email tocheckout and set a date for them to receive?",
+            "text": "<p>Unfortunately, you can’t add the recipients email to checkout or set a date for them to receive. The purchaser will receive the gift card email and can forward this onto to the intended recipient with their own message.<\/p>"
+          }
+        },
+        "question_ThCjgh": {
+          "type": "question",
+          "settings": {
+            "title": "Can I return an e-gift card?",
+            "text": "<p>All gift cards are non-returnable and non-refundable. Thy are valid for 1 year from purchase, and can be used in multiple transactions until the credit runs out.<\/p>"
+          }
+        },
+        "question_yXQRht": {
+          "type": "question",
+          "settings": {
+            "title": "Do you have any stores open?",
+            "text": "<p>Unfortunately, at present our presence is digital only, however with your support we are working hard to open our first Atenai London store in London very  soon.<\/p><p>Subscribe to our newsletter to find out more news as they happen.<\/p>"
+          }
+        },
+        "question_FaMcnX": {
+          "type": "question",
+          "settings": {
+            "title": "Where are your products stocked?",
+            "text": "<p>We are very proud to be stocked in some of the most well know retailers.<\/p><p>We recommend contacting any stockist ahead of visiting to check they have the range you are looking for.﻿<\/p>"
+          }
+        },
+        "rich_text_tPQp6r": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Account<\/h2>"
+          }
+        },
+        "question_M8JjhE": {
+          "type": "question",
+          "settings": {
+            "title": "I am having trouble logging in?",
+            "text": "<p>Firstly, check that you have the right login details for your account.<\/p><p>If you have not signed in to your account since we changed to our new site, you may need to update your login details. Click the “forgotten password” button and follow the instructions.<\/p><p>If you are still having issues, it could be because you either previously only checked out as a “guest” or your account has<br\/>been inactive for some time. If this is the case, please contact wecare@atenailondon.com and we can send you an account activation link. Please make sure to include the full name and email address you are using to log in.<\/p>"
+          }
+        },
+        "question_KCdApd": {
+          "type": "question",
+          "settings": {
+            "title": "How do I amend\/update my address?",
+            "text": "<p>You can update your shipping address at checkout. You can either update in the Information section of checkout or you can update in the shipping section by simply clicking on the change button next to the shipping address.<\/p><p>If you are updating your billing address, this can be done on the payment page of checkout.<\/p>"
+          }
+        },
+        "question_xwfqEk": {
+          "type": "question",
+          "settings": {
+            "title": "How do I sign-up for an account?",
+            "text": "<p>In our navigation, you will see an <a href=\"https:\/\/atenailondon.com\/account\/register\">Account Registration<\/a>. Simply click on this and fill out your details in the register section.<\/p>"
+          }
+        },
+        "question_q8w8iK": {
+          "type": "question",
+          "settings": {
+            "title": "How do I subscribe to your newsletter sand mailing lists?",
+            "text": "<p>You can do this in a few ways.<\/p><p>At the footer of our website is a box to enter your email address. Simply enter this and subscribe.<\/p><p>On the homepage, there is a pop-up to subscribe. Simply enter your email address and sign-up.<\/p><p>At checkout simply tick the box which states “email me for news and offers”.<\/p>"
+          }
+        },
+        "rich_text_tqKq8T": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Product Information<\/h2>"
+          }
+        },
+        "question_wCDcqj": {
+          "type": "question",
+          "settings": {
+            "title": "Are Atenai London products natural?",
+            "text": "<p>All our products are as natural as we can make them without jeopardising our product efficacy and fragrance, to this day most of our products are 85% plus natural.<\/p><p>Our products are free from nasty parabens, PEG's, petrochemicals and SLS.<\/p><p>If you can’t find the answers, you’re looking for, then please get in touch by giving us a call on 0208 124 0074 or dropping us an email wecare@atenailondon.com.<\/p>"
+          }
+        },
+        "rich_text_CEikTk": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<h2>Returns<\/h2>"
+          }
+        },
+        "question_bJADyP": {
+          "type": "question",
+          "settings": {
+            "title": "How do I return an item?",
+            "text": "<p>We want to ensure you are totally satisfied when shopping with us, so if you change your mind for any reason, you are able to send an item that is unworn, still has its tags intact and in a resalable condition to us for Return, within <strong>14 days<\/strong> of it being dispatched to you.<\/p><p><strong>Holiday Returns<\/strong> (1 November to 31st December).<\/p><p>Extended holiday return period is offered till 31st January if ordered between the 1st November to the 31st December.<\/p><p>To arrange a return, please contact us and we will be more than happy to help you. All you need to tell us is which item you wish to return and the reason why.<\/p><p>You will need to pack the item securely and include a brief cover note stating:<\/p><p>Your order number<\/p><p>The item you would like to return <\/p><p>The reason for return <\/p><p>Whether you would like a refund or a replacement <\/p><p>Please ask for a <strong>\"Proof of posting certificate\"<\/strong> as we cannot be held responsible for goods that go missing whilst in transit.<\/p><p><strong>Return Address:<\/strong><\/p><p><strong><br\/><\/strong>Flostream Ltd - Atenai London C\/O   <\/p><p>Unit 1, St Modwen Park, 6<\/p><p>Junction 12, M5<\/p><p>Gloucester, GL10 3EZ<\/p><p>United Kingdom<\/p>"
+          }
+        },
+        "question_JCgH6d": {
+          "type": "question",
+          "settings": {
+            "title": "When can't I return an item for exchange or refund?",
+            "text": "<p>In following circumstances we cannot exchange or refund your payment.<\/p><p>If the item has been worn <\/p><p>If the item has labels missing <\/p><p>If your returns period has expired<\/p>"
+          }
+        },
+        "question_LKQBkR": {
+          "type": "question",
+          "settings": {
+            "title": "When will I receive my exchange or refund?",
+            "text": "<p>We will process your exchange or refund as soon as your item is received back into our warehouse.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_9CCYaP",
+        "question-0",
+        "question-1",
+        "question-2",
+        "question-3",
+        "question-4",
+        "question-5",
+        "question_hMY3Gm",
+        "question_drTRjd",
+        "question_3ztRjd",
+        "question_f4aBxP",
+        "question_G8yfyf",
+        "rich_text_QNXPYV",
+        "question_KYLpJa",
+        "question_bTnwG3",
+        "question_grTBVn",
+        "question_HCUVGR",
+        "question_yW44JT",
+        "question_XtWBnR",
+        "question_y8br8t",
+        "rich_text_TBQGhF",
+        "question_CNDmRe",
+        "question_MC9MR7",
+        "question_Nr7c7N",
+        "question_GGQwtR",
+        "question_dzHzT7",
+        "question_wf7hCG",
+        "question_QdzzQ7",
+        "question_ThCjgh",
+        "question_yXQRht",
+        "question_FaMcnX",
+        "rich_text_tPQp6r",
+        "question_M8JjhE",
+        "question_KCdApd",
+        "question_xwfqEk",
+        "question_q8w8iK",
+        "rich_text_tqKq8T",
+        "question_wCDcqj",
+        "rich_text_CEikTk",
+        "question_bJADyP",
+        "question_JCgH6d",
+        "question_LKQBkR"
+      ],
+      "custom_css": [
+        ".rte h2 {padding-bottom: 30px; max-height: 20px; min-height: 20px; padding-top: 30px; margin: 0 !important; margin-bottom: 0 !important;}"
+      ],
+      "settings": {
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-0": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Can't find what you're looking for?",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "rich-text-0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Send us an email to tell us what's up and someone from our Customer Service team will get back to you as soon as possible. Be sure to include your order number (if you have one).<br\/><br\/>Please email us at wecare@atenailondon.com.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-0-0",
+        "rich-text-0-1"
+      ],
+      "custom_css": [
+        ".rich-text__text.typeset.rte {max-width: 100%;}"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Other inquiries? Let's chat.",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "rich-text-1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please email us at wecare@atenailondon.com.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-1-0",
+        "rich-text-1-1"
+      ],
+      "custom_css": [
+        ".rich-text__text.typeset.rte {max-width: 100%;}"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner",
+    "faq",
+    "rich-text-0",
+    "rich-text-1"
+  ]
+}
