@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header-group.name",
   "type": "header",
@@ -11,7 +20,7 @@
             "text": "15% Off Christmas Sale",
             "text_on_mobile": "15% Off Cyber Monday Christmas Sale",
             "text_size": 13,
-            "link": "https:\/\/atenailondon.com\/collections\/gift-sets"
+            "link": "https://atenailondon.com/collections/gift-sets"
           }
         }
       },
@@ -37,40 +46,18 @@
     "header": {
       "type": "header",
       "blocks": {
-        "b2cc4ee6-e093-4358-a2ea-25edef298aa1": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_title": "Bath & body",
-            "narrow": true,
-            "show_menu_image": true,
-            "promo_image_1": "shopify:\/\/shop_images\/sancuary_20bc3827-c8aa-4d74-88b1-c8dfd4452887.jpg",
-            "promo_image_ratio_1": "adapt",
-            "promo_image_position_1": "center center",
-            "promo_heading_1": "Build Your Own Gift Set",
-            "promo_text_1": "",
-            "promo_overlay_content_1": false,
-            "promo_link_1": "\/apps\/gbb\/easybundle\/1?page=addProductsPage1&currentFlow=byob",
-            "promo_image_ratio_2": "adapt",
-            "promo_image_position_2": "center center",
-            "promo_heading_2": "Image Heaing",
-            "promo_text_2": "",
-            "promo_overlay_content_2": true,
-            "promo_link_2": ""
-          }
-        },
         "0573d433-1c4a-4632-9ccf-f4d78be430b8": {
           "type": "mega_menu",
           "settings": {
             "menu_title": "Hand Care",
             "narrow": true,
             "show_menu_image": true,
-            "promo_image_1": "shopify:\/\/shop_images\/Atenai_London_Hand_Cream_1.jpg",
             "promo_image_ratio_1": "square",
             "promo_image_position_1": "center center",
             "promo_heading_1": "Build Your Own Gift Set",
             "promo_text_1": "",
             "promo_overlay_content_1": false,
-            "promo_link_1": "\/apps\/gbb\/easybundle\/1?page=addProductsPage1&currentFlow=byob",
+            "promo_link_1": "/apps/gbb/easybundle/1?page=addProductsPage1&currentFlow=byob",
             "promo_image_ratio_2": "adapt",
             "promo_image_position_2": "center center",
             "promo_heading_2": "",
@@ -85,13 +72,12 @@
             "menu_title": "COLLECTIONS",
             "narrow": true,
             "show_menu_image": true,
-            "promo_image_1": "shopify:\/\/shop_images\/banner_1000x11000_24bbdbd7-ec98-4f0c-878e-4b669d61baf3.jpg",
             "promo_image_ratio_1": "square",
             "promo_image_position_1": "center center",
             "promo_heading_1": "Build Your Own Gift Set",
             "promo_text_1": "",
             "promo_overlay_content_1": false,
-            "promo_link_1": "\/apps\/gbb\/easybundle\/1?page=addProductsPage1&currentFlow=byob",
+            "promo_link_1": "/apps/gbb/easybundle/1?page=addProductsPage1&currentFlow=byob",
             "promo_image_ratio_2": "adapt",
             "promo_image_position_2": "center center",
             "promo_heading_2": "",
@@ -106,13 +92,12 @@
             "menu_title": "FRAGRANCE",
             "narrow": true,
             "show_menu_image": true,
-            "promo_image_1": "shopify:\/\/shop_images\/atenai-7657.jpg",
             "promo_image_ratio_1": "square",
             "promo_image_position_1": "center center",
             "promo_heading_1": "Build Your Own Gift Set",
             "promo_text_1": "",
             "promo_overlay_content_1": false,
-            "promo_link_1": "\/apps\/gbb\/easybundle\/1?page=addProductsPage1&currentFlow=byob",
+            "promo_link_1": "/apps/gbb/easybundle/1?page=addProductsPage1&currentFlow=byob",
             "promo_image_ratio_2": "adapt",
             "promo_image_position_2": "center center",
             "promo_heading_2": "",
@@ -127,13 +112,12 @@
             "menu_title": "HOME",
             "narrow": true,
             "show_menu_image": true,
-            "promo_image_1": "shopify:\/\/shop_images\/Atenai_London_London_Gift_Set_Box_3.jpg",
             "promo_image_ratio_1": "square",
             "promo_image_position_1": "center center",
             "promo_heading_1": "Build Your Own Gift Set",
             "promo_text_1": "",
             "promo_overlay_content_1": false,
-            "promo_link_1": "\/apps\/gbb\/easybundle\/1?page=addProductsPage1&currentFlow=byob",
+            "promo_link_1": "/apps/gbb/easybundle/1?page=addProductsPage1&currentFlow=byob",
             "promo_image_ratio_2": "adapt",
             "promo_image_position_2": "center center",
             "promo_heading_2": "",
@@ -148,13 +132,12 @@
             "menu_title": "ATENAI LONDON",
             "narrow": true,
             "show_menu_image": true,
-            "promo_image_1": "shopify:\/\/shop_images\/Atenai_London_Main_Icon_Black_Antique_White_BackgroundJPG.jpg",
             "promo_image_ratio_1": "square",
             "promo_image_position_1": "center center",
             "promo_heading_1": "Our Story",
             "promo_text_1": "",
             "promo_overlay_content_1": false,
-            "promo_link_1": "shopify:\/\/blogs\/news\/our-story",
+            "promo_link_1": "shopify://blogs/news/our-story",
             "promo_image_ratio_2": "adapt",
             "promo_image_position_2": "center center",
             "promo_heading_2": "",
@@ -165,7 +148,6 @@
         }
       },
       "block_order": [
-        "b2cc4ee6-e093-4358-a2ea-25edef298aa1",
         "0573d433-1c4a-4632-9ccf-f4d78be430b8",
         "2aa012ab-99fa-4b7d-880c-f5383b9a4d1a",
         "mega_menu_QMJJtf",
@@ -176,7 +158,6 @@
         "a.mega-menu__promo-link.media-wrapper {max-height: 250px !important; max-width: 200px !important; overflow: hidden !important;}"
       ],
       "settings": {
-        "logo": "shopify:\/\/shop_images\/Atenai_London_Main_Logo_Black_Antique_White_BackgroundPNG_5bfbabdb-9c4a-4055-8d0a-fbcccee803d6.png",
         "logo_height": 50,
         "mobile_logo_height": 44,
         "logo_position": "top-center",
@@ -191,7 +172,6 @@
         "enable_language_selector": true,
         "enable_sticky_header": true,
         "show_sticky_header_scroll_up": false,
-        "transparent_logo": "shopify:\/\/shop_images\/Atenai_London_Main_Logo_Black_Antique_White_BackgroundPNG_white.png",
         "enable_transparent_header": true,
         "enable_transparent_header_collection": true,
         "enable_transparent_header_custom": "",
